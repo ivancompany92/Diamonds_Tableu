@@ -53,7 +53,7 @@ After analyzing and understanding how the price of a diamond changes, we have cr
 
 You can see it at the following link:
 
-* [Diamonds_analysis_tableau](http://www.potacho.com/files/ironhack/diamonds_train.csv  )
+* [Diamonds_analysis_tableau](https://public.tableau.com/profile/ivan5141#!/vizhome/ih_datamadpt0420_project_m2_15962180365450/Dashboard)
 
 
 ## **Next steps:**
