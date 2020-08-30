@@ -56,5 +56,8 @@ You can see it at the following link:
 * [Diamonds_analysis_tableau](https://public.tableau.com/profile/ivan5141#!/vizhome/ih_datamadpt0420_project_m2_15962180365450/Dashboard)
 
 
+## **Hypothesis Testing**
+We have performed 2 tests to learn more about our diamond database. In the first, we have tested whether the prices in our sample are significantly different from 4000. In the second, we have tested whether the group 1 of diamonds (Very Good cut + color I) is significantly different from the group 2(Very Good cut + color J).
+
 ## **Next steps:**
 - We can analyze how the price varies based on two or more variables simultaneously, to better understand how to set the price of a diamond.
